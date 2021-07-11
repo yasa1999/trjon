@@ -1,1 +1,1 @@
-trojan://a02245e8@a.luoweidns.xyz:443
+trojan://a02245e8@www.a.luoweidns.xyz:443
