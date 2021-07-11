@@ -1,1 +1,1 @@
-c29ja3M6Ly9Pa0F4TWpjdU1DNHdMakU2TVRBNE1BPT0jdnBu
+trojan://a02245e8@a.luoweidns.xyz:443
